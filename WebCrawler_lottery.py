@@ -29,3 +29,5 @@ for n in range(6,len(data2)):
 # 特別號
 red=data1[2].find('div',{'class':'ball_red'})
 print("\n特別號(紅球):%s" %(red.text))
+
+# test
